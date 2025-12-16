@@ -64,5 +64,5 @@ Accuracy ≈ 0.69
 * The model produces more false positives than false negatives, meaning it sometimes predicts generosity where it does not occur — a concern for driver expectations.
 
 
-Feature importance analysis shows that temporal patterns and trip-related attributes are strong predictors of tipping behavior.
+* Feature importance analysis shows that temporal patterns and trip-related attributes are strong predictors of tipping behavior.
 
